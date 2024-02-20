@@ -23,3 +23,9 @@
 <p>
 	I also added Grab, Release, and Throw functions (lines 433, 452, and 464) that act a sort of gravity gun that is used to throw exploding barrels, which will explode on impact. This functionality can be used to any actor that is visible to the Grab trace channel.
 </p>
+<p>
+	I am looking into adding more features and refactoring the code in the future, so check the branches for current and past versions of the source.
+</p>
+<p>
+	Regarding copyright: feel free to use code snippets in your project, with the exception that you do not claim it as your own invention.
+</p>
