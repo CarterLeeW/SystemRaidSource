@@ -19,7 +19,7 @@
 </p>
 <p>
 	In Tank.cpp, the function RotateTurretToController (line 212) adjusts the tank's aim to point where the crosshairs make contact with an object, which ensures that the projectile always lands where the player would expect it to.
-</p> 452 and 464 433
+</p>
 <p>
 	I also added Grab, Release, and Throw functions (lines 433, 452, and 464) that act a sort of gravity gun that is used to throw exploding barrels, which will explode on impact. This functionality can be used to any actor that is visible to the Grab trace channel.
 </p>
